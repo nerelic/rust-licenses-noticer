@@ -1,0 +1,9 @@
+[package]
+name = "rust-licenses-noticer"
+version = "10.1.0"
+edition = "2021"
+
+[[bin]]
+name = "malicious"
+path = "src/main.rs"
+
